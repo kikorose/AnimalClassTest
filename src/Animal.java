@@ -12,5 +12,21 @@ public class Animal {
 	public String eat() {
 		return "An animal eats...";
 	}
+	public String tree() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public String size() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public String walks() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public String rubbed() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
 
